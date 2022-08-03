@@ -1,4 +1,4 @@
-// | The four examples below are four ways of effectively doing the same thing.
+// | The four examples below have the same observeable behavior.
 // | Comparing them on jsben.ch may surprise you.
 
 // | Example 1.
