@@ -19,7 +19,7 @@
 
 // | Example 3.
 (a => b => c => {
-    console.log(a,b,c)
+    console.log(a, b, c)
 })(2)(3)(5);
 
 // | Example 4. anonymous scope.
