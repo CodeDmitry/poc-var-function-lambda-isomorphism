@@ -1,4 +1,4 @@
-// | The four examples below are three ways of saying the same thing.
+// | The four examples below are four ways of saying the same thing.
 
 // | Example 1.
 (function() {
