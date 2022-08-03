@@ -1,4 +1,4 @@
-// | The four examples below are four ways of saying the same thing.
+// | The four examples below are four ways of effectively doing the same thing.
 // | Comparing them on jsben.ch may surprise you.
 
 // | Example 1.
