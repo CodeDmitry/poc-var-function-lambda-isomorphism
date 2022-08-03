@@ -1,4 +1,4 @@
-// | The three examples below are three ways of saying the same thing.
+// | The four examples below are three ways of saying the same thing.
 
 // | Example 1.
 (function() {
@@ -21,3 +21,11 @@
 (a => b => c => {
     console.log(a,b,c)
 })(2)(3)(5);
+
+// | Example 4. anonymous scope.
+{
+    var a = 2;
+    var b = 3;
+    var c = 5;
+    console.log(a, b, c);
+}
