@@ -23,10 +23,11 @@
     console.log(a, b, c)
 })(2)(3)(5);
 
-// | Example 4. anonymous scope.
+// | Example 4. anonymous block(note: var persists outside of anonymous blocks, 
+// |     so let is used instead).
 {
-    var a = 2;
-    var b = 3;
-    var c = 5;
+    let a = 2;
+    let b = 3;
+    let c = 5;
     console.log(a, b, c);
 }
